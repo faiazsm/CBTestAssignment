@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-24T23:43:18 IST" name="Suite" finished-at="2024-04-24T23:44:03 IST" duration-ms="45758">
+  <suite started-at="2024-05-08T22:20:31 IST" name="Suite" finished-at="2024-05-08T22:23:32 IST" duration-ms="181143">
     <groups>
     </groups>
-    <test started-at="2024-04-24T23:43:18 IST" name="Test2" finished-at="2024-04-24T23:43:57 IST" duration-ms="38997">
+    <test started-at="2024-05-08T22:20:31 IST" name="Test2" finished-at="2024-05-08T22:21:14 IST" duration-ms="43217">
       <class name="A02CrossBrowser.crossBrowserTestA02">
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@c88a337]" started-at="2024-04-24T23:43:18 IST" name="beforeTest" finished-at="2024-04-24T23:43:22 IST" duration-ms="4148" status="PASS">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@c88a337]" started-at="2024-05-08T22:20:31 IST" name="beforeTest" finished-at="2024-05-08T22:20:40 IST" duration-ms="8847" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="CBTest()[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@c88a337]" started-at="2024-04-24T23:43:22 IST" name="CBTest" finished-at="2024-04-24T23:43:57 IST" duration-ms="34836" status="PASS">
+        <test-method signature="CBTest()[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@c88a337]" started-at="2024-05-08T22:20:40 IST" name="CBTest" finished-at="2024-05-08T22:21:14 IST" duration-ms="34361" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CBTest -->
       </class> <!-- A02CrossBrowser.crossBrowserTestA02 -->
     </test> <!-- Test2 -->
-    <test started-at="2024-04-24T23:43:18 IST" name="Test1" finished-at="2024-04-24T23:44:01 IST" duration-ms="43755">
+    <test started-at="2024-05-08T22:20:31 IST" name="Test1" finished-at="2024-05-08T22:23:26 IST" duration-ms="175051">
       <class name="A02CrossBrowser.crossBrowserTestA02">
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@3d6f0054]" started-at="2024-04-24T23:43:18 IST" name="beforeTest" finished-at="2024-04-24T23:43:21 IST" duration-ms="3113" status="PASS">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@3d6f0054]" started-at="2024-05-08T22:20:31 IST" name="beforeTest" finished-at="2024-05-08T22:20:36 IST" duration-ms="4613" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="CBTest()[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@3d6f0054]" started-at="2024-04-24T23:43:21 IST" name="CBTest" finished-at="2024-04-24T23:44:01 IST" duration-ms="40614" status="PASS">
+        <test-method signature="CBTest()[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@3d6f0054]" started-at="2024-05-08T22:20:36 IST" name="CBTest" finished-at="2024-05-08T22:23:26 IST" duration-ms="170406" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CBTest -->
       </class> <!-- A02CrossBrowser.crossBrowserTestA02 -->
     </test> <!-- Test1 -->
-    <test started-at="2024-04-24T23:43:18 IST" name="Test3" finished-at="2024-04-24T23:44:03 IST" duration-ms="45758">
+    <test started-at="2024-05-08T22:20:31 IST" name="Test3" finished-at="2024-05-08T22:23:32 IST" duration-ms="181143">
       <class name="A02CrossBrowser.crossBrowserTestA02">
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@593aaf41]" started-at="2024-04-24T23:43:18 IST" name="beforeTest" finished-at="2024-04-24T23:43:21 IST" duration-ms="3790" status="PASS">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@593aaf41]" started-at="2024-05-08T22:20:31 IST" name="beforeTest" finished-at="2024-05-08T22:20:37 IST" duration-ms="5590" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -56,7 +56,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="CBTest()[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@593aaf41]" started-at="2024-04-24T23:43:21 IST" name="CBTest" finished-at="2024-04-24T23:44:03 IST" duration-ms="41961" status="PASS">
+        <test-method signature="CBTest()[pri:0, instance:A02CrossBrowser.crossBrowserTestA02@593aaf41]" started-at="2024-05-08T22:20:37 IST" name="CBTest" finished-at="2024-05-08T22:23:32 IST" duration-ms="175547" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CBTest -->
