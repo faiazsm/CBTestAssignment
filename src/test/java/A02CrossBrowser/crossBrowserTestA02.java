@@ -33,7 +33,7 @@ public class crossBrowserTestA02
 		String expText = "Results";
 		String actText = driver.findElement(By.cssSelector(".a-size-medium-plus.a-color-base.a-text-bold")).getText();
 		Assert.assertEquals(actText, expText);
-		System.out.println("Test is passed and Obtained text in browser is: "+actText);
+		System.out.println("Test is passed and Obtained text from browser is: "+actText);
 		Thread.sleep(10000);
 		driver.quit();
 	  }
