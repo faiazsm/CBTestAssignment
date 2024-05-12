@@ -1,6 +1,8 @@
 package A02CrossBrowser;
 
 import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
+import org.testng.annotations.Test;
 import java.net.MalformedURLException;
 import java.net.URL;
 
@@ -32,7 +34,7 @@ public class crossBrowserTestA02
 		Thread.sleep(2000);
 		String expText = "Results";
 		String actText = driver.findElement(By.cssSelector(".a-size-medium-plus.a-color-base.a-text-bold")).getText();
-		Assert.assertEquals(actText, expText);
+		AssertJUnit.assertEquals(actText, expText);
 		System.out.println("Test is passed and Obtained text from browser is: "+actText);
 		Thread.sleep(10000);
 		driver.quit();
